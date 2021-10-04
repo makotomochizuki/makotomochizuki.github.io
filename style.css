@@ -8,6 +8,10 @@ html body {
 }
 
 body {
-    background-color: darkgray;
+    background-color: rgb(54, 54, 54);
     font-family: sans-serif;
+}
+
+h1 {
+    color: #ffffff;
 }
